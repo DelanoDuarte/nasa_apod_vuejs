@@ -1,4 +1,6 @@
-# vue-apod
+#Nasa APOD - (Astronomy Picture of the Day) Sample
+
+![alt](https://media.giphy.com/media/pVBOrFgoFTQFMAlqIr/giphy.gif)
 
 ## Project setup
 ```
